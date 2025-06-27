@@ -111,6 +111,19 @@ Observations:
 
 ------------------------------------------------------------
 
+## Assignments
+
+Google Drive Links:
+
+The Week 1 and Week 2 assignments are also available on Google Drive. These links can be used to access or share the files easily from anywhere.
+
+- Week 1 Assignment (Drive):[ https://drive.google.com/file/d/your-week1-id/view?usp=sharing](https://drive.google.com/drive/folders/1dpoe0arTlklWIXp8sDWSnl0bL7U2EgpM?usp=drive_link)
+- Week 2 Assignment (Drive): [https://drive.google.com/file/d/your-week2-id/view?usp=sharing](https://drive.google.com/drive/folders/11LsSIbG1bHz4tk4JZ6bWwMt2AEqSJr82?usp=drive_link)
+
+Note: The latest versions of the assignments will be maintained on Google Drive as well.
+
+------------------------------------------------------------
+
 Summary:
 
 | Week | Topic                        | Key Concepts Covered                                       |
